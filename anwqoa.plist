@@ -11,23 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.yngfwy.com/gfhouse/anwqoa.ipa</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.yngfwy.com/gfhouse/anwqoa.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://www.yngfwy.com/gfhouse/anwqoa.png</string>
+					<string>https://www.yngfwy.com/anwqoa.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
@@ -35,11 +19,11 @@
 				<key>bundle-identifier</key>
 				<string>com.gfdz.anwqoa</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>°²ÄşÎÂÈª±ö¹İOA</string>
+				<string>å®‰å®æ¸©æ³‰OA</string>
 			</dict>
 		</dict>
 	</array>
